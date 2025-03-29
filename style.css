@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    
+}
+nav ul li a:hover{
+    font-size: 1.1rem;
+    color: rgb(210, 111, 25);
+
+}
+#hero {
+    background: #0073e6;
+    color: white;
+    padding: 50px;
+}
+section {
+    padding: 40px;
+    background: white;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.project {
+    background: #0ce9b9;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+section .imp{
+    font-size: 22px;
+    font-style: italic;
+    color: rgb(79, 154, 154);
+}
+#about{
+    background-color: aqua;
+    box-shadow: #0073e6;
+}
+#projects{
+    background-color: #008568;
+}
+  body{
+    background-color: burlywood;
+  }
+  #skills{
+   background-color: darksalmon;
+  }
+ .skills ul{
+    text-align: left;
+    font-style:oblique;
+ }
+ .cutie h2{
+    color: rgb(255, 255, 255);
+ }
+ .cutie ul{
+    font-size: 30px;
+    color: antiquewhite;
+ }
+.cutie{
+  background-color: #333;
+}
+    
